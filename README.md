@@ -19,3 +19,5 @@ room prices on weekends or on holidays.
 amount to increase their revenue as the cancellation is the highest in this month.
 - They can also increase the quality of their hotels and their services mainly in Portugal to 
 reduce the cancellation rate.
+
+## I have also add an project report file do checkout that..
